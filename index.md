@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## My Socials 
 
-You can use the [editor on GitHub](https://github.com/PolygonYT/Links/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[YouTube](https://www.youtube.com/channel/UCHIKbdT2tWJ4nlqV5g-aTBA)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Twitch](https://www.twitch.tv/Pixe1Atom)
 
-### Markdown
+[Discord](https://discord.gg/vqMePZUBT4)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Speedrun.com](https://www.speedrun.com/user/PixelAtom)
 
-```markdown
-Syntax highlighted code block
+## Nerd Stuff
 
-# Header 1
-## Header 2
-### Header 3
+[GitHub Page](github.com/PolygonYT)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PolygonYT/Links/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[My site](polygonyt.github.io)
